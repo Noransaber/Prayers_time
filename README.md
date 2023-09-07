@@ -1,7 +1,7 @@
 # Prayer Times App
 *The Prayer Times App is a Python application that allows users to fetch and display daily prayer times for a specific city and country. It utilizes the Aladhan API to retrieve accurate prayer time information.*
 
-<img src="islamic-prayer-time-schedule-design-social-media_606364-216.jpg" alt="islamic-prayer-time">
+<img src="logo.png" alt="islamic-prayer-time">
 
 # Features
 - Input your desired city and country.
